@@ -1,0 +1,140 @@
+body {
+background-color: rgb(255, 255, 255);
+margin: 0;
+} 
+#menu{
+background-color: rgb(134, 76, 205);
+width: 300px;
+height: 3000px;
+text-align: center;
+box-shadow: 5px 0px 5px rgb(57, 3, 95);
+margin-top: -30px;
+}
+.logo{
+    width: 150px;
+    margin-top: 20px;
+    border: 6px double black;
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px rgb(71, 5, 118);
+}
+h1,h2{
+    font-size: 1.5 rem;
+color: antiquewhite;
+font-family: sans-serif;
+text-shadow: 1px 1px 15px ;
+}
+.links {
+    text-decoration: none;
+    color: black;
+    font-size: 1.3rem;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 0;
+    transition: all 0.7s ease-out;
+}
+.links:hover{
+    background-color: black;
+    color: azure;
+}
+header{ 
+    float: left;
+}
+.info01{
+    background-color: rgb(159, 142, 221);
+    margin: 1.5rem 2rem 1rem 20rem;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px rgb(5, 109, 118);
+} 
+
+.info02{
+    background-color: rgb(159, 142, 221);
+    margin: 1.5rem 2rem 1rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px rgb(126, 81, 157);
+    width: 230px;
+    height: 200px;
+}
+.info03{
+    background-color: rgb(159, 142, 221);
+    margin: 1.5rem 2rem 1rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px rgb(126, 81, 157);
+    width: 230px;
+    height: 200px;
+}
+.info04 {
+    background-color: rgb(159, 142, 221);
+    margin: 1.5rem 2rem 1rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px rgb(159, 142, 221);
+    width: 230px;
+    height: 200px;
+}
+.info05{ 
+    background-color: rgb(159, 142, 221);
+    margin: 1.5rem 2rem 1rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px rgb(159, 142, 221);
+    width: 230px;
+    height: 200px;
+}
+.info06{
+    background-color: rgb(159, 142, 221);
+    margin: 1.5rem 2rem 1rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px rgb(159, 142, 221);
+    width: 230px;
+    height: 200px;
+}
+.info07{
+    background-color: rgb(159, 142, 221);
+    margin: 1.5rem 2rem 1rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px rgb(159, 142, 221); 
+    width: 230px;
+    height: 200px;
+
+}
+.info08{
+    background-color: rgb(159, 142, 221);
+    margin: 1.5rem 2rem 1rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px rgb(159, 142, 221);
+    width: 230px;
+    height: 200px;
+}
+#conteudo{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+footer{
+    background-color: rgb(134, 76, 205);
+    font-size: 1.5 rem;
+    text-align: center;
+    font-family: sans-serif;
+    clear: both;
+}
+h3{ 
+    font-size: 2rem;
+    text-align: center;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 15px;  
+}
+P{
+    font-size: 1.1 REM;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 600;
+
+}
+ 

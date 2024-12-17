@@ -1,0 +1,28 @@
+
+.grafico{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+border : 20px double black;
+text-align: center;
+
+}
+.links2{
+    background-color: aliceblue;
+    margin: 1 rem 1 rem 2 rem 21 rem;
+    padding: 1rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.links{
+    text-decoration: none;
+    color:black;
+    font-weight: 600;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+
+}
+.vl{
+    border-left: 2px solid;
+}
